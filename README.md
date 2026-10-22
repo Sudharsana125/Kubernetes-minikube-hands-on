@@ -1,4 +1,4 @@
-\# ☸️ Kubernetes Hands-On
+# ☸️ Kubernetes Hands-On
 
 
 
@@ -6,13 +6,13 @@ I built a simple web application using Docker, Minikube, and Kubernetes to learn
 
 
 
-\### Tech Stack
+### Tech Stack
 
 Docker • Kubernetes • Minikube • Nginx • HTML • CSS
 
 
 
-\###  Run Locally
+###  Run Locally
 
 ```bash
 
