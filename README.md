@@ -24,5 +24,13 @@ minikube service nginx-service
 
 ```
 
+\## 🖥️ Project Preview
 
+
+
+My web application running with a custom-designed interface.
+
+
+
+!\[My Digital Space](screenshots/my-digital-space.png)
 
